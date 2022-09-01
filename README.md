@@ -24,6 +24,15 @@ I am passionate about technology in general and I hope to continue meeting peopl
  <img src="./assets/images/universal-music2.jpeg" style="display:block;width:45%" />
  <img src="./assets/images/universal-music3.jpeg" style="display:block;width:45%" />
  <img src="./assets/images/universal-music4.jpeg" style="display:block;width:45%" />
+ 
+  - _El tiempo_
+ <a href="https://github.com/KuraiRantan/el-tiempo" target="_blank">Repo</a>
+ <a href="https://el-tiempo.vercel.app/" target="_blank">Deploy</a>
+ 
+ <img src="./assets/images/el-tiempo1.png" style="display:block;width:45%" />
+ <img src="./assets/images/el-tiempo2.png" style="display:block;width:45%" />
+ <img src="./assets/images/el-tiempo3.png" style="display:block;width:45%" />
+ <img src="./assets/images/el-tiempo4.png" style="display:block;width:45%" />
 
 
 
