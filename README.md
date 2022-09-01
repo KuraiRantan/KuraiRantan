@@ -15,6 +15,15 @@ I am passionate about technology in general and I hope to continue meeting peopl
 
 <details>
 <summary> <h3> 💼 Proyects:</h3></summary>
+ 
+ - _Universal Music_
+ <a href="https://github.com/KuraiRantan/PI-Foods" target="_blank">Repo</a>
+ <a href="https://universalmusic-henry.web.app/" target="_blank">Deploy</a>
+ 
+ <img src="./assets/images/universal-music1.jpeg" style="display:block;width:45%" />
+ <img src="./assets/images/universal-music2.jpeg" style="display:block;width:45%" />
+ <img src="./assets/images/universal-music3.jpeg" style="display:block;width:45%" />
+ <img src="./assets/images/universal-music4.jpeg" style="display:block;width:45%" />
 
 
 
