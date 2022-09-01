@@ -5,6 +5,8 @@ My name is Jorge Camargo, I'm 23 years old and I'm a fullstack web developer.
 
 I started in 2017 studying ADSI technology where, among other things, as a final project, together with a team of 5 people, we made a desktop application with Java/Swing-MariaDB related to school enrollment management,later in 2019, being in the practical stage together with a colleague, we also made a desktop application, this time in Visual Basic language, which we learned in a self-taught way and currently I finished the fullstack web development bootcamp offered by Henry, where he had the most enriching experience, not only because of the technologies I learned during the course, but also because of the people I met along the way.
 
+I am passionate about technology in general and I hope to continue meeting people and expanding my knowledge.
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camargo-jorge) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:jorgecamargo2012902@gmail.com)
