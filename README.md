@@ -24,6 +24,15 @@ I am passionate about technology in general and I hope to continue meeting peopl
  <img src="./assets/images/universal-music2.jpeg" style="display:block;width:45%" />
  <img src="./assets/images/universal-music3.jpeg" style="display:block;width:45%" />
  <img src="./assets/images/universal-music4.jpeg" style="display:block;width:45%" />
+
+ - _PI Foods_
+ <a href="https://github.com/KuraiRantan/PI-Foods" target="_blank">Repo</a>
+ <a href="https://pi-foods-nu.vercel.app/" target="_blank">Deploy</a>
+ 
+ <img src="./assets/images/pi-foods1.png" style="display:block;width:45%" />
+ <img src="./assets/images/pi-foods2.png" style="display:block;width:45%" />
+ <img src="./assets/images/pi-foods3.png" style="display:block;width:45%" />
+ <img src="./assets/images/pi-foods4.png" style="display:block;width:45%" />
  
   - _El tiempo_
  <a href="https://github.com/KuraiRantan/el-tiempo" target="_blank">Repo</a>
@@ -34,7 +43,12 @@ I am passionate about technology in general and I hope to continue meeting peopl
  <img src="./assets/images/el-tiempo3.png" style="display:block;width:45%" />
  <img src="./assets/images/el-tiempo4.png" style="display:block;width:45%" />
 
+ - _Inventario_
 
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://res.cloudinary.com/di6mevrkr/video/upload/v1670156966/inventario_kbgjvz.mp4"
+  frameborder="0"/>
+  </iframe>
 
 </details>
 
