@@ -44,11 +44,11 @@ I am passionate about technology in general and I hope to continue meeting peopl
  <img src="./assets/images/el-tiempo4.png" style="display:block;width:45%" />
 
  - _Inventario_
+ 
 
-<iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://res.cloudinary.com/di6mevrkr/video/upload/v1670156966/inventario_kbgjvz.mp4"
-  frameborder="0"/>
-  </iframe>
+https://user-images.githubusercontent.com/98563745/205494673-8bbced25-e14b-4771-9c68-d03b74262364.mp4
+
+
 
 </details>
 
